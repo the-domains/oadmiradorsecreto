@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[o admirador secreto]]></title>
         <description><![CDATA[o admirador secreto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oadmiradorsecreto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 23:48:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 23:53:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oadmiradorsecreto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Sting talks about his ayahuasca experience]]></title>
-            <description><![CDATA[<article><h1>Sting talks about his ayahuasca experience</h1><p>In this exclusive clip, music icon Sting talks about his experiences with the amazonian medicine Ayahuasca. This is the full interview that was recorded for the documentary Time for Change. Watch the Full Film here: http://mangu.tv/film/time-for-change/ 'Time for Change' presents an optimistic alternative to apocalyptic doom and gloom that is more relevant than ever in our new millenium.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11eb7bf47de800e8737d1e0ebfa2624634fc9e0a.jpg"></article>]]></description>
-            <link>https://vimeo.com/56429245</link>
-            <guid isPermaLink="false">3f3a7775-11f6-410e-b354-1cd854f7b37c</guid>
-            <pubDate>Wed, 02 Mar 2016 23:48:17 GMT</pubDate>
+            <title><![CDATA[3… 2… 1… zero! 1… 2… 3…]]></title>
+            <description><![CDATA[<article><h1></h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/oadmiradorsecreto/3-2-1-zero-1-2-3/index.html</link>
+            <guid isPermaLink="false">6993b02e-4267-453d-91c9-d1f522d05bb3</guid>
+            <pubDate>Wed, 02 Mar 2016 23:52:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
