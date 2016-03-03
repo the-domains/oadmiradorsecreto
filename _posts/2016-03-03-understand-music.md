@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Music is a good thing. But what we did not know until we started with the research for this piece: Music is also a pretty damn complex thing. This experimental animation is about the attempt to understand all the parts and bits of it. Have a look. You might agree with our conclusion!'
-datePublished: '2016-03-03T00:37:19.257Z'
-dateModified: '2016-03-03T00:37:00.157Z'
+datePublished: '2016-03-03T00:37:39.485Z'
+dateModified: '2016-03-03T00:37:24.174Z'
 author:
   - name: finally.
     url: 'http://vimeo.com/finallystudio'
