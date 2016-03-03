@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://boingboing.net/2012/12/05/voicemails-from-hundreds-of-st.html'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - diagrams
   - sofa
@@ -17,8 +17,8 @@ keywords:
   - cookies
   - www
 description: 'Olga Nunes é uma música canadiana. Não é da sua música que falamos, mas sim de um outro tipo de composição, uma ideia.'
-datePublished: '2016-03-03T01:00:53.466Z'
-dateModified: '2016-03-03T01:00:49.589Z'
+datePublished: '2016-03-03T01:01:11.658Z'
+dateModified: '2016-03-03T01:00:57.391Z'
 author: []
 related: []
 app_links: []
