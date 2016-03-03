@@ -17,8 +17,8 @@ keywords:
   - hystericalliterature
   - age-restricted
 description: 'Support literature, purchase the book: http://amzn.to/M4MkyY Stoya visits the studio and reads from "Necrophilia Variations" by Supervert. Directed by Clayton Cubitt. Subtitles available (CC) in French and Brazilian Portuguese. Watch other videos in the series, read essays from the participants and writers, and answers to frequently asked questions: http://hystericalliterature.com Hysterical Literature is a video art series by NYC-based photographer and filmmaker Clayton Cubitt.'
-datePublished: '2016-03-03T00:50:54.465Z'
-dateModified: '2016-03-03T00:50:16.081Z'
+datePublished: '2016-03-03T00:51:19.570Z'
+dateModified: '2016-03-03T00:50:58.824Z'
 author:
   - name: claytoncubitt
     url: 'https://www.youtube.com/user/claytoncubitt'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: 'Hysterical Literature: Session One: Stoya (Official)'
+sourcePath: _posts/2016-03-03-hysterical-literature-session-one-stoya-official.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-03-hysterical-literature-session-one-stoya-official.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
