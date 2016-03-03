@@ -4,22 +4,8 @@
         <description><![CDATA[o admirador secreto]]></description>
         <link>https://thegrid.ai/oadmiradorsecreto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 09:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 09:22:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oadmiradorsecreto/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Outside]]></title>
-            <description><![CDATA[<article><h1>Outside</h1><p>por: Michael Pederson</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d13dd90935b1583f924f3c4441af654476e41a.png"></article>]]></description>
-            <link>http://miguelmarquezoutside.com/</link>
-            <guid isPermaLink="false">998db60b-7977-4fe2-9938-3e4b50bbd32f</guid>
-            <pubDate>Thu, 03 Mar 2016 09:28:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ishtar X Tussilago]]></title>
-            <description><![CDATA[<article><h1>Ishtar X Tussilago</h1><p>Realizador:Maceo Frost</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df438fa7856cb8ba3180c448b656e357e1d71445.jpg"></article>]]></description>
-            <link>https://vimeo.com/137221490</link>
-            <guid isPermaLink="false">feb00999-e928-4e9a-bf94-0423a6202741</guid>
-            <pubDate>Thu, 03 Mar 2016 09:20:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Holi Shit]]></title>
             <description><![CDATA[<article><h1>Holi Shit</h1><p>Entre fumos e cores, estes berlinenses correm e saltam à solta por edifícios abandonados. Belíssima cinematografia do alemão Frank Sauer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f908693ff83c700568302954d1c804f41c309289.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.youtube.com/watch?v=XS29ffBXTEE</link>
             <guid isPermaLink="false">3469dab9-a102-40bf-bc44-bb35bfd00e91</guid>
             <pubDate>Thu, 03 Mar 2016 09:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d970fc4-6256-4b44-a423-9d9678985b3c.jpg">]]></description>
+            <link>https://thegrid.ai/oadmiradorsecreto/6e4a9e39-af50-4ba4-bbe1-89696c866087/index.html</link>
+            <guid isPermaLink="false">6e4a9e39-af50-4ba4-bbe1-89696c866087</guid>
+            <pubDate>Thu, 03 Mar 2016 09:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blazed - Drug Driving in Aotearoa]]></title>
+            <description><![CDATA[<article><h1>Blazed - Drug Driving in Aotearoa</h1><p>Não tenho a certeza se este anúncio atinge o propósito a que se propõe, mas que é uma pequena maravilha cinematográfica, é.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b77f43a7fb92c7999324b157e1b0d7fa562df6e2.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=P8KAaf45g5U</link>
+            <guid isPermaLink="false">a4208c95-8e3b-4030-9e7f-2ddf5cea577a</guid>
+            <pubDate>Thu, 03 Mar 2016 09:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
