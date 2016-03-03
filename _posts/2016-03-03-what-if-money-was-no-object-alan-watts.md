@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A profound speech from the late Alan Watts. Alan Watts audio courtesy of alanwatts.org from the seminar: "Do You Do It, or Does It Do You?" available for download at http://www.alanwattscenter.org/#!services/cihc A remastered version of "What if money was no object". After our original video, which reached almost 2,000,000 views was taken down due to copyright.'
-datePublished: '2016-03-03T08:36:40.766Z'
-dateModified: '2016-03-03T08:36:17.269Z'
+datePublished: '2016-03-03T08:37:57.316Z'
+dateModified: '2016-03-03T08:36:48.860Z'
 author:
   - name: 'Tragedy & Hope'
     url: 'https://www.youtube.com/user/tradgedyandhope'
