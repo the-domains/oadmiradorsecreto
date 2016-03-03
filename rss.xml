@@ -4,8 +4,15 @@
         <description><![CDATA[o admirador secreto]]></description>
         <link>https://thegrid.ai/oadmiradorsecreto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 09:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 09:34:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oadmiradorsecreto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Outside]]></title>
+            <description><![CDATA[<article><h1>Outside</h1><p>por: Michael Pederson</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d13dd90935b1583f924f3c4441af654476e41a.png"></article>]]></description>
+            <link>http://miguelmarquezoutside.com/</link>
+            <guid isPermaLink="false">998db60b-7977-4fe2-9938-3e4b50bbd32f</guid>
+            <pubDate>Thu, 03 Mar 2016 09:30:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drugs]]></title>
             <description><![CDATA[<article><h1>Drugs</h1><p>Realizador: Taras Pozdnyakov (do colectivo Raw Art)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6a26a92e031855bb655975b46971cafb7e48233.jpg"></article>]]></description>
@@ -14,15 +21,8 @@
             <pubDate>Thu, 03 Mar 2016 09:28:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Outside]]></title>
-            <description><![CDATA[<article><h1>Outside</h1><p>por: Michael Pederson</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d13dd90935b1583f924f3c4441af654476e41a.png"></article>]]></description>
-            <link>http://miguelmarquezoutside.com/</link>
-            <guid isPermaLink="false">998db60b-7977-4fe2-9938-3e4b50bbd32f</guid>
-            <pubDate>Thu, 03 Mar 2016 09:28:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ishtar X Tussilago]]></title>
-            <description><![CDATA[<article><h1>Ishtar X Tussilago</h1><p>Ishtar X Tussilago is a short film by Maceo Frost starring downhill longboard rider Ishtar Backlund in the epic mountains of Norway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df438fa7856cb8ba3180c448b656e357e1d71445.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ishtar X Tussilago</h1><p>Realizador: Maceo Frost</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df438fa7856cb8ba3180c448b656e357e1d71445.jpg"></article>]]></description>
             <link>https://vimeo.com/137221490</link>
             <guid isPermaLink="false">feb00999-e928-4e9a-bf94-0423a6202741</guid>
             <pubDate>Thu, 03 Mar 2016 09:30:18 GMT</pubDate>
