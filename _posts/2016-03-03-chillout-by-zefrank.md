@@ -17,20 +17,20 @@ keywords:
   - unlimited
   - streaming
 description: 'chillout by zefrank, released 17 September 2008'
-datePublished: '2016-03-03T00:59:20.671Z'
-dateModified: '2016-03-03T00:59:16.477Z'
+datePublished: '2016-03-03T01:00:10.802Z'
+dateModified: '2016-03-03T00:59:55.377Z'
 author: []
 related: []
 app_links: []
 title: 'chillout, by zefrank'
+sourcePath: _posts/2016-03-03-chillout-by-zefrank.md
+published: true
 authors: []
 publisher:
   name: BandCamp
   domain: zefrank.bandcamp.com
   url: 'http://bandcamp.com'
   favicon: 'http://f1.bcbits.com/img/a2532729856_3.jpg'
-sourcePath: _posts/2016-03-03-chillout-by-zefrank.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
