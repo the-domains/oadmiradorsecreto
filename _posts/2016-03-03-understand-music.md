@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Music is a good thing. But what we did not know until we started with the research for this piece: Music is also a pretty damn complex thing. This experimental animation is about the attempt to understand all the parts and bits of it. Have a look. You might agree with our conclusion!'
-datePublished: '2016-03-03T00:37:39.485Z'
-dateModified: '2016-03-03T00:37:24.174Z'
+datePublished: '2016-03-03T08:24:46.054Z'
+dateModified: '2016-03-03T08:24:45.689Z'
 author:
   - name: finally.
     url: 'http://vimeo.com/finallystudio'
@@ -55,3 +55,7 @@ _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F54763818&amp;url=https%3A%2F%2Fvimeo.com%2F54763818&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F380549046_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+Quem o diz é o grupo de criativos da [finally.][0], um estúdio alemão baseado em Mainz. A música é uma coisa boa. É, sem dúvida. E este vídeo é uma coisa óptima.
+
+[0]: http://t.umblr.com/redirect?z=http%3A%2F%2Ffinally-studio.com%2F&t=ZWUzMWFmMDFkY2M4ZDY0NTk2NjM3NzIxMjgxNjgxZDNjZjhjNDI1Nix6dDY1UHdxbA%3D%3D
