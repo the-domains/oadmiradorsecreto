@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sigur Rós - Valtari Sigur Rós 'Valtari' Mystery Film Experiment: Valtari by Christian Larson Written & Directed by Christian Larson. Choreography by Sidi Larbi Cherkaoui Cinematography by Mattias Montero, Costume Designer Lydia Kovacs, Produced by Noreen Khan."
-datePublished: '2016-03-03T08:44:06.244Z'
-dateModified: '2016-03-03T08:43:58.789Z'
+datePublished: '2016-03-03T08:48:31.551Z'
+dateModified: '2016-03-03T08:45:02.835Z'
 author:
   - name: Sigur Rós Valtari Mystery Films
     url: 'http://vimeo.com/valtarifilmexperiment'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Sigur Rós - Valtari
+sourcePath: _posts/2016-03-03-sigur-ros-valtari.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-03-sigur-ros-valtari.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
