@@ -17,8 +17,8 @@ keywords:
   - strangers
   - pictures
 description: "For a decade, snowboard photographer Ian Ruhter saved as much money as he could. Not so much for a rainy day, more for the dream to be named later. \"I knew one day I'd like to do something,\" he says. \"I didn't know it was this, but I knew it would be something.\""
-datePublished: '2016-03-03T00:11:54.011Z'
-dateModified: '2016-03-03T00:11:50.314Z'
+datePublished: '2016-03-03T00:14:28.113Z'
+dateModified: '2016-03-03T00:12:02.811Z'
 author: []
 related: []
 app_links: []
