@@ -4,7 +4,7 @@
         <description><![CDATA[o admirador secreto]]></description>
         <link>https://thegrid.ai/oadmiradorsecreto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 09:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 21:57:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oadmiradorsecreto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Outside]]></title>
@@ -12,6 +12,13 @@
             <link>http://miguelmarquezoutside.com/</link>
             <guid isPermaLink="false">998db60b-7977-4fe2-9938-3e4b50bbd32f</guid>
             <pubDate>Thu, 03 Mar 2016 09:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aaron Tilley | Aaron Tilley]]></title>
+            <description><![CDATA[<article><h1>Aaron Tilley | Aaron Tilley</h1><img src="http://www.aarontilley.com/wp-content/uploads/2016/02/Kinfolk-Anticipation-6v2.jpg"></article>]]></description>
+            <link>http://www.aarontilley.com/</link>
+            <guid isPermaLink="false">0b5962f2-4784-4f9b-887c-559d747d5711</guid>
+            <pubDate>Thu, 03 Mar 2016 21:55:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drugs]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/75185969</link>
             <guid isPermaLink="false">0ffc2d84-33e4-49b8-8560-a1574c24dd2b</guid>
             <pubDate>Thu, 03 Mar 2016 09:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Box]]></title>
-            <description><![CDATA[<article><h1>Box</h1><p>Box, esta caixinha é plana de forma e plena de magia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da711e464bdd84cfb8368f3bb2a76299d3ebb5d4.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=lX6JcybgDFo</link>
-            <guid isPermaLink="false">8099257d-f7ec-4056-be71-c8408ddcfa6e</guid>
-            <pubDate>Thu, 03 Mar 2016 09:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
