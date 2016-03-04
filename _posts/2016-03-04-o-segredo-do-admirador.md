@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Toda a gente sabe que o mundo acabou no dia 21 do 12 de 2012, devido ao alinhamento galáctico-coiso. Da supernova criada nessa explosão, nasce este site. Com a pretensão de invadir a blogosfera portuguesa, na vertente de curadorismo de coisas interessantes.'
-datePublished: '2016-03-04T11:26:41.844Z'
-dateModified: '2016-03-04T11:26:36.948Z'
+datePublished: '2016-03-04T11:29:11.952Z'
+dateModified: '2016-03-04T11:29:04.960Z'
 title: "o segredo do admirador\_"
 author: []
 sourcePath: _posts/2016-03-04-o-segredo-do-admirador.md
@@ -30,6 +30,6 @@ Toda a gente sabe que o mundo acabou no dia 21 do 12 de 2012, devido ao alinhame
 > 
 > beauty is in the eye of the beholder
 
-## [o segredo do admirador][0]
+[o segredo][0]
 
 [0]: http://brunoamaral.me/
