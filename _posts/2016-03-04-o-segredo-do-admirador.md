@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Toda a gente sabe que o mundo acabou no dia 21 do 12 de 2012, devido ao alinhamento galáctico-coiso. Da supernova criada nessa explosão, nasce este site. Com a pretensão de invadir a blogosfera portuguesa, na vertente de curadorismo de coisas interessantes.'
-datePublished: '2016-03-04T11:30:15.529Z'
-dateModified: '2016-03-04T11:30:06.762Z'
+datePublished: '2016-03-04T11:30:45.077Z'
+dateModified: '2016-03-04T11:30:40.995Z'
 title: "o segredo do admirador\_"
 author: []
 sourcePath: _posts/2016-03-04-o-segredo-do-admirador.md
