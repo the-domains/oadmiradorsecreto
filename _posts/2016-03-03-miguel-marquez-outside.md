@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://miguelmarquezoutside.com/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - pederson
   - miguelmarquezoutside
@@ -17,8 +17,8 @@ keywords:
   - street
   - rss
 description: Public Projects - Michael Pederson
-datePublished: '2016-03-03T09:30:26.630Z'
-dateModified: '2016-03-03T09:28:44.330Z'
+datePublished: '2016-03-04T11:22:28.169Z'
+dateModified: '2016-03-04T11:18:25.989Z'
 author: []
 related: []
 app_links:
