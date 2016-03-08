@@ -17,8 +17,8 @@ keywords:
   - street
   - rss
 description: Public Projects - Michael Pederson
-datePublished: '2016-03-08T10:33:15.683Z'
-dateModified: '2016-03-08T10:33:11.212Z'
+datePublished: '2016-03-08T10:34:32.582Z'
+dateModified: '2016-03-08T10:34:28.979Z'
 author: []
 related: []
 app_links:
@@ -68,6 +68,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## 
-
 <article style=""><h1>Miguel Marquez Outside</h1><p>Public Projects - Michael Pederson</p><img src="http://33.media.tumblr.com/avatar_a7f3dc2d999b_128.png" /></article>
